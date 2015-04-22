@@ -14,7 +14,7 @@
     "devTarget": "dist/app/cockpit"
   },
   "dependencies": {
-    "camunda-commons-ui": "camunda/camunda-commons-ui"
+    "camunda-commons-ui": "git://github.com/camunda/camunda-commons-ui#master"
   },
   "devDependencies": {
     "grunt": "0.4.5",
